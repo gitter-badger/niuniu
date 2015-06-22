@@ -1,6 +1,8 @@
 Yii2-Adminlte
 ==========
 
+[![Join the chat at https://gitter.im/softme/niuniu](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/softme/niuniu?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Backend user & password:
 Login: `admin`
 Password: `qwe1234`
